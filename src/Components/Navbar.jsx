@@ -20,9 +20,9 @@ function Navbar() {
                 <Link to='/'>
                     <span className='cursor-pointer w-full font-galada text-2xl md:text-3xl text-team md:mx-8 flex items-center'>
                    
-                        <span className='flex font-galada ml-[100px] md:ml-[120px] gap-4'>
+                        <span className='flex tracking-wide ml-[100px] md:ml-[120px] gap-4'>
                         <IoCodeSlashSharp size={40} className='text-white'/>
-                        Kevin Uyeh
+                        Icon Empire
                     </span>
                     </span>
                 </Link>

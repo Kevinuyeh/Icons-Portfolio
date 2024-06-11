@@ -7,7 +7,7 @@ import { IoDiamondSharp } from "react-icons/io5";
 
 function Footer() {
     return(
-        <div className="w-full bg-dark3">
+        <div className="w-full bg-dark3 pb-4">
             <div className="flex justify-between items-center mx-auto text-center gap-6">
                 <div className="mt-8 text-team mx-6">
                 <FaWolfPackBattalion color="team" size={30}/>
