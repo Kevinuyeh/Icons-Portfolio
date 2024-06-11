@@ -12,9 +12,7 @@ module.exports = {
         dark3: '#1A1819',
         dark4: '#006400',
       },
-      fontFamily: {
-        'galada': ['Galada'],
-      },
+    
     },
   },
   plugins: [],

@@ -21,7 +21,7 @@ function Skills() {
                 <p className='text-white mt-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa quasi voluptatum, porro a ipsum soluta adipisci odit, laborum amet mollitia. Quia voluptatem pariatur non perspiciatis optio dolore modi error.</p>
                 </div>
                 </Slide>
-            <Slide duration={3000} direction='right'>    
+            <Slide duration={1000} direction='right'>    
                 <div className='flex items-center justify-center p-4'>
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-3'>
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
