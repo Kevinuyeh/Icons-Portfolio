@@ -9,7 +9,7 @@ function Skills() {
     return (
         <div className='w-full bg-dark3 p-4'>
             <div className='max-w-[1240px] mx-auto px-4 grid md:grid-cols-2'>
-                <Slide duration={1000} direction='left'>
+                <Slide duration={2000} direction='left'>
                 <div className='md:mt-[150px] flex flex-col justify-center mx-5'>
                 <h1 className='text-white text-3xl md:text-5xl font-medium'>What I <span className='text-team '>Do</span>.</h1>
                 <div className='relative p-2'>
@@ -21,7 +21,7 @@ function Skills() {
                 <p className='text-white mt-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa quasi voluptatum, porro a ipsum soluta adipisci odit, laborum amet mollitia. Quia voluptatem pariatur non perspiciatis optio dolore modi error.</p>
                 </div>
                 </Slide>
-            <Slide duration={1000} direction='right'>    
+            <Slide duration={2000} direction='right'>    
                 <div className='flex items-center justify-center p-4'>
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-3'>
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>

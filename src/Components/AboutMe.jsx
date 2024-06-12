@@ -28,7 +28,7 @@ function AboutMe() {
 
                 <div className="flex items-center justify-center mt-8">
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-3'>
-                        <div className="flex gap-4">
+                        <div className="flex gap-4 mt-5">
                         <img src={Img1} alt='/img' className='w-[60px] h-[70px] mx-auto rounded-md' />
                         <div className="flex flex-col">
                             <h1 className="text-white text-3xl font-medium">Clean Code</h1>
@@ -36,7 +36,7 @@ function AboutMe() {
                         </div>
                         </div>
 
-                        <div className="flex gap-4">
+                        <div className="flex gap-4 mt-10 pb-8">
                         <img src={Img2} alt='/img' className='w-[60px] h-[70px]  mx-auto rounded-md' />
                         <div className="flex flex-col">
                             <h1 className="text-white text-3xl font-medium">Modern Design</h1>
