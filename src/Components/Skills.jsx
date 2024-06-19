@@ -11,7 +11,7 @@ function Skills() {
     return (
         <div className='w-full bg-dark3 p-4'>
             <div className='max-w-[1240px] mx-auto px-4 grid md:grid-cols-2'>
-                <Slide duration={2000} direction='left'>
+                {/* <Slide duration={2000} direction='left'> */}
                 <div className='md:mt-[150px] flex flex-col justify-center mx-5'>
                 <h1 className='text-white text-3xl md:text-5xl font-medium'>What I <span className='text-team '>Do</span>.</h1>
                 <div className='relative p-2'>
@@ -52,7 +52,7 @@ function Skills() {
                         </div>
                     </div>
                 </div>
-                </Slide>
+                {/* </Slide> */}
             </div>
         </div>
     )
