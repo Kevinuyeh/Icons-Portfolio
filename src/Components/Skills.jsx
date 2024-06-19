@@ -3,7 +3,7 @@ import { FaSearch } from "react-icons/fa";
 import { FaPenNib } from "react-icons/fa";
 import { IoCodeSlashSharp } from "react-icons/io5";
 import { FaRegChartBar } from "react-icons/fa";
-import { Slide } from "react-awesome-reveal";
+// import { Slide } from "react-awesome-reveal";
 
 function Skills() {
    
