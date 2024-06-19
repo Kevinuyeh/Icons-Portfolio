@@ -3,6 +3,10 @@ import Dev from '../Assets/Portfolio-3.png'
 import TypeEffect from "./TypeEffect";
 
 function Hero() {
+    const handlePdfButton = () => {
+        window.open('/OfficialResume.pdf', '_blank')
+    };
+
     return(
         <div className="w-full bg-black p-4">
             <div className="max-w-[1240px] mx-auto px-4 grid md:grid-cols-2">
@@ -12,9 +16,19 @@ function Hero() {
                     Hi i'm {' '} <span className="text-team"><TypeEffect text='KEVIN UYEH'/></span>
                     </h1>
                     <p className="text-white font-medium">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam deleniti saepe quaerat ab dolore nobis similique eos eveniet facere excepturi. Veritatis hic sunt tempora. Asperiores accusantium dicta odit animi ad.
+                    I am a versatile front-end web developer with a passion for building innovative and user-friendly web applications.
                     </p>
-                    <button className="mx-auto mt-8 text-center bg-team hover:bg-white text-dark font-semibold p-2 rounded-md text-2xl">Download CV</button>
+                    
+                    <div className="flex flex-col md:flex-row">
+                    <button 
+                    onClick={handlePdfButton}
+                    className="mx-auto mt-8 text-center bg-team hover:bg-white text-dark font-semibold p-2 rounded-md text-2xl">View CV</button>
+                    
+
+                   <a href="/OfficialResume.pdf" download className="mx-auto mt-8 text-center bg-team hover:bg-white text-dark font-semibold p-2 rounded-md text-2xl"> 
+                   Download CV
+                    </a>
+                    </div> 
              </div>
 
                 <img className="mx-auto md:mt-[70px] my-5"

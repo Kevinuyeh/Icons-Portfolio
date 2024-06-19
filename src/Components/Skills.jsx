@@ -6,6 +6,8 @@ import { FaRegChartBar } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 
 function Skills() {
+   
+
     return (
         <div className='w-full bg-dark3 p-4'>
             <div className='max-w-[1240px] mx-auto px-4 grid md:grid-cols-2'>
@@ -18,7 +20,7 @@ function Skills() {
                 </div>
                 </div>
                 
-                <p className='text-white mt-4'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa quasi voluptatum, porro a ipsum soluta adipisci odit, laborum amet mollitia. Quia voluptatem pariatur non perspiciatis optio dolore modi error.</p>
+                <p className='text-white mt-4'>I design and develop intuitive, responsive web interfaces using modern technologies like React and Tailwind CSS, ensuring seamless user experiences across devices. Let's bring your digital vision to life with engaging and functional web solutions.</p>
                 </div>
                    
                 <div className='flex items-center justify-center p-4'>
@@ -27,26 +29,26 @@ function Skills() {
                         <IoCodeSlashSharp size={40} className='mx-auto text-white'/>
                         
                             <h1 className='text-3xl font-medium'>Web Design</h1>
-                            <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                            <p className='mt-4'>Creating visually appealing, responsive websites tailored to your brand's identity.</p>
                         </div>
 
                         <div className='bg-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                        
                         <FaSearch size={40} className='mx-auto text-team'/>
                             <h1 className='text-3xl font-medium'>Web Research</h1>
-                            <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p className='mt-4'>Gathering and analyzing data to inform web strategies and decisions.</p>
                         </div>
 
                         <div className='bg-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                         <FaPenNib size={40} className='mx-auto text-team'/>
                             <h1 className='text-3xl font-medium'>UI/UX Design</h1>
-                            <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p className='mt-4'>Designing user-friendly interfaces for an optimal, engaging user experience.</p>
                         </div>
 
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                         <FaRegChartBar size={40} className='mx-auto text-white'/>
                             <h1 className='text-3xl font-medium'>Marketing</h1>
-                            <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <p className='mt-4'>Developing strategies to promote your brand and drive user engagement.</p>
                         </div>
                     </div>
                 </div>

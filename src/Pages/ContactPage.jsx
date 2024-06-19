@@ -1,8 +1,9 @@
-import React, { useRef } from "react";
+import React, { useRef } from 'react';
 import Navbar from "../Components/Navbar";
 import emailjs from '@emailjs/browser'
 import Cont from "../Assets/Contact-Me.png"
-import { FaEnvelope, FaInstagram, FaLocationArrow, FaPhoneAlt, FaLinkedin, FaTwitter, } from 'react-icons/fa'
+import { FaEnvelope, FaInstagram, FaLocationArrow, FaPhoneAlt, FaLinkedin, } from 'react-icons/fa'
+import { FaXTwitter } from 'react-icons/fa6';
 import Footer from "../Components/Footer";
 import { FaGithub } from "react-icons/fa6";
 
@@ -10,6 +11,7 @@ import { FaGithub } from "react-icons/fa6";
 function ContactPage() {
     const form = useRef()
 
+    
     const sendEmail = (e) => {
         e.preventDefault();
 
@@ -67,7 +69,7 @@ function ContactPage() {
                                     <a href='https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav'> <FaLinkedin className='cursor-pointer hover:text-cream' size={30} /></a>
                                     <a href="https://github.com/Kevinuyeh"><FaGithub className='cursor-pointer hover:text-cream' size={30} /></a>
                                     <a href='https://www.instagram.com/icon._.livin?igsh=MWF3M293NWF3bHlvcA%3D%3D&utm_source=qr'><FaInstagram className='cursor-pointer hover:text-cream' size={30} /></a>
-                                    <a href='https://x.com/Icon_livin_3'><FaTwitter className='cursor-pointer hover:text-cream' size={30} /></a>
+                                    <a href='https://x.com/Icon_livin_3'><FaXTwitter className='cursor-pointer hover:text-cream' size={30} /></a>
                                 </div>
                             </div>
 
@@ -106,7 +108,7 @@ function ContactPage() {
                                             ></textarea>
                                         </div>
 
-                                        <button type='submit' 
+                                        <button type='submit'
                                         className='inline-block self-end bg-black text-white font-bold rounded-lg px-6 py-2 uppercase text-sm'
                                         >Send Message</button>
 

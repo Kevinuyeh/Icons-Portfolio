@@ -24,7 +24,7 @@ function AboutMe() {
                 </div>
                 </div>
 
-                <p className="text-white mt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem voluptates amet unde cupiditate corporis quod veniam nemo, nostrum assumenda ut, perspiciatis iure illum temporibus id tempora officiis in reprehenderit hic.</p>
+                <p className="text-white mt-5">Combining innovative design concepts with practical functionality to exceed client expectations, ensuring each project is unique, engaging, and perfectly aligned with their vision and needs.</p>
 
                 <div className="flex items-center justify-center mt-8">
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-3'>
@@ -32,7 +32,7 @@ function AboutMe() {
                         <img src={Img1} alt='/img' className='w-[60px] h-[70px] mx-auto rounded-md' />
                         <div className="flex flex-col">
                             <h1 className="text-white text-3xl font-medium">Clean Code</h1>
-                            <p className="text-white mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, voluptates dolore.</p>
+                            <p className="text-white mt-3">Writing readable, maintainable, and efficient code for seamless project development.</p>
                         </div>
                         </div>
 
@@ -40,7 +40,7 @@ function AboutMe() {
                         <img src={Img2} alt='/img' className='w-[60px] h-[70px]  mx-auto rounded-md' />
                         <div className="flex flex-col">
                             <h1 className="text-white text-3xl font-medium">Modern Design</h1>
-                            <p className="text-white mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, voluptates dolore.</p>
+                            <p className="text-white mt-3">Implementing contemporary aesthetics and trends to create visually stunning websites.</p>
                         </div>
                         </div>
                     </div>

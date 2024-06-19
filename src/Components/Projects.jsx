@@ -29,7 +29,7 @@ function Projects() {
                                 alt="Project"
                                 className="w-[500px] mx-auto mb-3"
                             />
-                            <p className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam sed similique quisquam nobis magnam suscipit deserunt.</p>
+                            <p className="text-white">Empowering your financial future with cutting-edge blockchain technology.</p>
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">StarFire Invest</h1>
                         <a  href='https://www.starfireinvest.org/' target='_blank' rel='noopener noreferrer'>
@@ -52,7 +52,7 @@ function Projects() {
                                 alt="Project"
                                 className="w-[500px] mx-auto mb-3"
                             />
-                            <p className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam sed similique quisquam nobis magnam suscipit deserunt.</p>
+                            <p className="text-white">Delicious meals delivered to your door, hot and fresh.</p>
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Panny's Logistics</h1>
                         <a  href='https://panny-s-logistics.vercel.app/' target='_blank' rel='noopener noreferrer'>
@@ -75,7 +75,7 @@ function Projects() {
                                 alt="Project"
                                 className="w-[500px] mx-auto mb-3"
                             />
-                            <p className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam sed similique quisquam nobis magnam suscipit deserunt.</p>
+                            <p className="text-white">Transforming your look with expert styling and personalized care.</p>
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Adis-Glam</h1>
                         <a  href='https://adis-glam-tawny.vercel.app/' target='_blank' rel='noopener noreferrer'>
@@ -98,7 +98,7 @@ function Projects() {
                                 alt="Project"
                                 className="w-[500px] mx-auto mb-3"
                             />
-                            <p className="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam sed similique quisquam nobis magnam suscipit deserunt.</p>
+                            <p className="text-white">Experience luxury and comfort in the heart of the city.</p>
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Grand Hotels & Suites</h1>
                         <a href='https://grand-hotels-suites.vercel.app/' target='_blank' rel='noopener noreferrer'>

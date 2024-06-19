@@ -8,7 +8,7 @@ function Contact () {
             <div className="grid md:grid-cols-2 mx-8 gap-4">
                 <div className="flex flex-col p-3">
                     <h1 className=" text-4xl font-bold">Let's Work together on your next project</h1>
-                    <p className=" mt-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero et reprehenderit ducimus sed numquam aperiam.</p>
+                    <p className=" mt-5">Let's bring your digital vision to life with engaging and functional web solutions.</p>
                 </div>
 
                 <div className="flex items-center justify-center">
