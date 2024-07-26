@@ -66,7 +66,7 @@ function ContactPage() {
 
 
                                 <div className='flex space-x-4 text-lg'>
-                                    <a href='linkedin.com/in/kevin-uyeh-b7bb22176'target='_blank' rel='noopener noreferrer' > <FaLinkedin className='cursor-pointer hover:text-cream' size={30} /></a>
+                                    <a href='https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav'target='_blank' rel='noopener noreferrer' > <FaLinkedin className='cursor-pointer hover:text-cream' size={30} /></a>
                                     <a href="https://github.com/Kevinuyeh"target='_blank' rel='noopener noreferrer' ><FaGithub className='cursor-pointer hover:text-cream' size={30} /></a>
                                     <a href='https://www.instagram.com/icon._.livin?igsh=MWF3M293NWF3bHlvcA%3D%3D&utm_source=qr'target='_blank' rel='noopener noreferrer' ><FaInstagram className='cursor-pointer hover:text-cream' size={30} /></a>
                                     <a href='https://x.com/Icon_livin_3'target='_blank' rel='noopener noreferrer' ><FaXTwitter className='cursor-pointer hover:text-cream' size={30} /></a>
