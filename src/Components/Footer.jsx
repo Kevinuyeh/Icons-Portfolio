@@ -9,9 +9,9 @@ function Footer() {
             <div className="flex flex-col justify-between items-center mx-auto text-center gap-6">
 
                 <div className="gap-3 text-team mx-auto text-center flex mt-8">
-                  <a href='www.linkedin.com/in/kevin-uyeh-b7bb22176'target='_blank' rel='noopener noreferrer' > <FaLinkedin className='cursor-pointer hover:text-cream' size={30} /></a>
-                 <a href='https://www.instagram.com/icon._.livin?igsh=MWF3M293NWF3bHlvcA%3D%3D&utm_source=qr'target='_blank' rel='noopener noreferrer' ><FaInstagram className='cursor-pointer hover:text-cream' size={30} /></a>
-                    <a href='https://x.com/Icon_livin_3'target='_blank' rel='noopener noreferrer' ><FaXTwitter className='cursor-pointer hover:text-cream' size={30} /></a> 
+                  <a href='www.linkedin.com/in/kevin-uyeh-b7bb22176' target='_blank' rel='noopener noreferrer' > <FaLinkedin className='cursor-pointer hover:text-cream' size={30} /></a>
+                 <a href='https://www.instagram.com/icon._.livin?igsh=MWF3M293NWF3bHlvcA%3D%3D&utm_source=qr' target='_blank' rel='noopener noreferrer' ><FaInstagram className='cursor-pointer hover:text-cream' size={30} /></a>
+                    <a href='https://x.com/Icon_livin_3' target='_blank' rel='noopener noreferrer' ><FaXTwitter className='cursor-pointer hover:text-cream' size={30} /></a> 
                 </div>
                 
 
