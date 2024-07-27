@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../Components/Navbar";
 import Me from "../Assets/IMG-20221216-WA0015.jpg"
 import Skills from "../Components/Skills";
-import { FaHtml5 } from "react-icons/fa";
+import { FaFigma, FaHtml5, FaWordpress } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { FaReact } from "react-icons/fa6";
@@ -69,6 +69,14 @@ function AboutPage() {
 
             <div className="mt-8 md:mt-16 flex flex-col items-center justify-center">
                 <FaGithub className="text-white" size={70} />
+            </div>
+
+            <div className="mt-8 md:mt-16 flex flex-col items-center justify-center">
+                <FaFigma className="text-white" size={70} />
+            </div>
+
+            <div className="mt-8 md:mt-16 flex flex-col items-center justify-center">
+                <FaWordpress className="text-white" size={70} />
             </div>
         </div>
 
