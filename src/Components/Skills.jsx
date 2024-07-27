@@ -1,8 +1,7 @@
 import React from 'react'
-import { FaSearch } from "react-icons/fa";
+import { FaAppStore, FaSearch } from "react-icons/fa";
 import { FaPenNib } from "react-icons/fa";
 import { IoCodeSlashSharp } from "react-icons/io5";
-import { FaRegChartBar } from "react-icons/fa";
 // import { Slide } from "react-awesome-reveal";
 
 function Skills() {
@@ -46,9 +45,9 @@ function Skills() {
                         </div>
 
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
-                        <FaRegChartBar size={40} className='mx-auto text-white'/>
-                            <h1 className='text-3xl font-medium'>Marketing</h1>
-                            <p className='mt-4'>Developing strategies to promote your brand and drive user engagement.</p>
+                        <FaAppStore size={40} className='mx-auto text-white'/>
+                            <h1 className='text-3xl font-medium'>App Development</h1>
+                            <p className='mt-4'>Developing visually appealing, and user-friendly apps tailored to your brand's identity.</p>
                         </div>
                     </div>
                 </div>
