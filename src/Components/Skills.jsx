@@ -23,30 +23,30 @@ function Skills() {
                 </div>
                    
                 <div className='flex items-center justify-center p-4'>
-                    <div className='grid grid-cols-1 md:grid-cols-2 gap-3'>
+                    <div className='grid md:grid-cols-2 gap-3'>
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                         <IoCodeSlashSharp size={40} className='mx-auto text-white'/>
                         
-                            <h1 className='text-3xl font-medium'>Web Design</h1>
+                            <h1 className='text-2xl md:text-3xl text-center items-center font-medium'>Web Design</h1>
                             <p className='mt-4'>Creating visually appealing, responsive websites tailored to your brand's identity.</p>
                         </div>
 
                         <div className='bg-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                        
                         <FaSearch size={40} className='mx-auto text-team'/>
-                            <h1 className='text-3xl font-medium'>Web Research</h1>
+                            <h1 className='text-2xl md:text-3xl text-center items-center font-medium'>Web Research</h1>
                             <p className='mt-4'>Gathering and analyzing data to inform web strategies and decisions.</p>
                         </div>
 
                         <div className='bg-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                         <FaPenNib size={40} className='mx-auto text-team'/>
-                            <h1 className='text-3xl font-medium'>UI/UX Design</h1>
+                            <h1 className='text-2xl md:text-3xl text-center items-center font-medium'>UI/UX Design</h1>
                             <p className='mt-4'>Designing user-friendly interfaces for an optimal, engaging user experience.</p>
                         </div>
 
                         <div className='bg-gradient-to-b from-black via-dark-green to-dark4 shadow-md rounded-md p-6 flex flex-col m-4 text-white text-center'>
                         <FaAppStore size={40} className='mx-auto text-white'/>
-                            <h1 className='text-3xl font-medium'>App Development</h1>
+                            <h1 className='text-2xl md:text-3xl text-center items-center font-medium'>App Development</h1>
                             <p className='mt-4'>Developing visually appealing, and user-friendly apps tailored to your brand's identity.</p>
                         </div>
                     </div>
