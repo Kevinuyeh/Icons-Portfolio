@@ -22,7 +22,7 @@ function Projects() {
             </div>
             <div className="max-w-[1240px] mt-8 py-6 gap-14 justify-center mx-auto grid md:grid-cols-2">
                 
-                    <div className="flex flex-col justify-center">
+{/*                     <div className="flex flex-col justify-center">
                         <div className="bg-black rounded-lg shadow-lg justify-center py-7 px-3 text-center mx-auto">
                             <img
                                 src={Project1}
@@ -43,7 +43,7 @@ function Projects() {
                                 <div className='h-0.5 bg-team w-20 mb-1'></div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="flex flex-col justify-center">
                         <div className="bg-black rounded-lg shadow-lg justify-center py-7 px-3 text-center mx-auto">
