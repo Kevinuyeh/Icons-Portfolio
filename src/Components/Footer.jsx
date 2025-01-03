@@ -16,7 +16,7 @@ function Footer() {
                 
 
                 
-                <h1 className="text-white mx-3">Created by <span className="text-team">Kevin Uyeh </span>All rights reserved © 2024</h1>
+                <h1 className="text-white mx-3">Created by <span className="text-team">Kevin Uyeh </span>All rights reserved © 2025</h1>
                 
             </div>
         </div>
