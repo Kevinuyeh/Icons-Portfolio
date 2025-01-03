@@ -1,5 +1,5 @@
 import React from "react";
-import Project1 from '../Assets/Project-1.png'
+import Project1 from '../Assets/Project-5.png'
 import Project2 from '../Assets/Project-2.png'
 import Project3 from '../Assets/Project-3.png'
 import Project4 from '../Assets/Project-4.png'
@@ -22,17 +22,17 @@ function Projects() {
             </div>
             <div className="max-w-[1240px] mt-8 py-6 gap-14 justify-center mx-auto grid md:grid-cols-2">
                 
-{/*                     <div className="flex flex-col justify-center">
+                    <div className="flex flex-col justify-center">
                         <div className="bg-black rounded-lg shadow-lg justify-center py-7 px-3 text-center mx-auto">
                             <img
                                 src={Project1}
                                 alt="Project"
                                 className="w-[500px] mx-auto mb-3"
                             />
-                            <p className="text-white">Empowering your financial future with cutting-edge blockchain technology.</p>
+                            <p className="text-white">Enhance your style today with Afro-Threads fashion.</p>
                         </div>
-                        <h1 className="text-white font-medium text-3xl mt-3">StarFire Invest</h1>
-                        <a  href='https://www.starfireinvest.org/' target='_blank' rel='noopener noreferrer'>
+                        <h1 className="text-white font-medium text-3xl mt-3">Afro-Threads</h1>
+                        <a  href='https://new-afro-threads.vercel.app/' target='_blank' rel='noopener noreferrer'>
                             <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
                                 View Project
                                 <FaArrowRight className="ml-2" />
@@ -43,7 +43,7 @@ function Projects() {
                                 <div className='h-0.5 bg-team w-20 mb-1'></div>
                             </div>
                         </div>
-                    </div> */}
+                    </div>
 
                     <div className="flex flex-col justify-center">
                         <div className="bg-black rounded-lg shadow-lg justify-center py-7 px-3 text-center mx-auto">
