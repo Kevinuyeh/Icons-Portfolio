@@ -15,7 +15,7 @@ function AboutPage() {
         <div className="w-full bg-black">
             <Navbar />
             
-            <h1 className="text-white text-4xl tracking-wider md:text-6xl text-center md:mt-[100px]">About Me</h1>
+            <h1 className="text-white text-4xl tracking-wider md:text-6xl text-center mt-10">About Me</h1>
             <div className="relative p-6">
                 <div className="absolute bottom-0 left-0 w-full">
                     <div className="h-0.5 bg-team w-12 mx-auto mb-1"></div> {/* Short line on top */}

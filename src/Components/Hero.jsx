@@ -8,7 +8,7 @@ function Hero() {
     };
 
     return(
-        <div className="w-full bg-black p-4 mt-20">
+        <div className="w-full bg-black p-4">
             <div className="max-w-[1240px] mx-auto px-4 grid md:grid-cols-2">
 
             <div className="flex flex-col justify-center mx-8">

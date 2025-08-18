@@ -30,7 +30,7 @@ function ContactPage() {
             <div className="w-full bg-black">
                 <Navbar />
 
-                <h1 className="text-4xl md:text-6xl tracking-wider mx-auto text-center text-white md:mt-[150px]">Contact Me</h1>
+                <h1 className="text-4xl md:text-6xl tracking-wider mx-auto text-center text-white mt-10">Contact Me</h1>
                 <div className="relative p-6">
                     <div className="absolute bottom-0 left-0 w-full">
                         <div className="h-0.5 bg-team w-12 mx-auto mb-1"></div> {/* Short line on top */}

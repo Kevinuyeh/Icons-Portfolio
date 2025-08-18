@@ -9,11 +9,13 @@ function App() {
     <div>
      <BrowserRouter>
      <ScrollToTop>
+      
         <Routes>
           <Route path="/" index element={<Home/>} />
           <Route path="about" element={<AboutPage/>} />
           <Route path="contact" element={<ContactPage/>} />
         </Routes>
+        
         </ScrollToTop>
      </BrowserRouter>
     </div>
