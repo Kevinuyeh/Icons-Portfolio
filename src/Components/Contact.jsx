@@ -7,7 +7,7 @@ function Contact () {
             <div className="bg-team rounded-md md:-mt-[100px] p-5 mx-8">
             <div className="grid md:grid-cols-2 mx-8 gap-4">
                 <div className="flex flex-col p-3">
-                    <h1 className=" text-4xl font-bold">Let's Work together on your next project</h1>
+                    <h1 className=" text-3xl md:text-4xl font-bold">Let's Work together on your next project</h1>
                     <p className=" mt-5">Let's bring your digital vision to life with engaging and functional web solutions.</p>
                 </div>
 

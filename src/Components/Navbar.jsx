@@ -107,6 +107,11 @@ function Navbar() {
               About
             </Link>
           </li>
+                    <li className="text-white text-xl p-2">
+            <Link to="/projectpage" onClick={() => setNav(false)}>
+              Projects
+            </Link>
+          </li>
           <li className="text-white text-xl p-2">
             <Link to="/contact" onClick={() => setNav(false)}>
               Contact

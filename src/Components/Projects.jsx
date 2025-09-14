@@ -100,7 +100,7 @@ function Projects() {
                             />
                             <p className="text-white">Experience luxury and comfort in the heart of the city.</p>
                         </div>
-                        <h1 className="text-white font-medium text-3xl mt-3">Grand Hotels & Suites</h1>
+                        <h1 className="text-white font-medium text-3xl mt-3">Grand Hotel & Suites</h1>
                         <a href='https://grand-hotels-suites.vercel.app/' target='_blank' rel='noopener noreferrer'>
                         <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
                             View Project
