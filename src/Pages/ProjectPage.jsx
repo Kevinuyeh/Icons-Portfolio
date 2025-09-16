@@ -45,10 +45,20 @@ function ProjectsPage() {
             <h1 className="text-white font-medium text-3xl mt-3">{project.name}</h1>
 
             <a href={project.link} target='_blank' rel='noopener noreferrer'>
-              <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
+              {/* <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
                 View Project
                 <FaArrowRight className="ml-2" />
-              </h2>
+              </h2> */}
+              <div className="group flex items-center">
+  <h2
+    className="text-team font-bold tracking-wider text-xl flex items-center 
+               transition-all duration-700 ease-in-out group-hover:tracking-[0.3em] group-hover:scale-105"
+  >
+    View Project
+    <FaArrowRight className="ml-2 transition-transform duration-700 group-hover:translate-x-2" />
+  </h2>
+</div>
+
             </a>
           </div>
 

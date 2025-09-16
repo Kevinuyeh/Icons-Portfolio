@@ -33,10 +33,15 @@ function Projects() {
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Afro-Threads</h1>
                         <a  href='https://new-afro-threads.vercel.app/' target='_blank' rel='noopener noreferrer'>
-                            <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
-                                View Project
-                                <FaArrowRight className="ml-2" />
-                            </h2>
+                            <div className="group flex items-center">
+  <h2
+    className="text-team font-bold tracking-wider text-xl flex items-center 
+               transition-all duration-700 ease-in-out group-hover:tracking-[0.3em] group-hover:scale-105"
+  >
+    View Project
+    <FaArrowRight className="ml-2 transition-transform duration-700 group-hover:translate-x-2" />
+  </h2>
+</div>
                         </a>
                         <div className='relative p-2'>
                             <div className='absolute bottom-0 left-0 flex items-center'>
@@ -56,10 +61,15 @@ function Projects() {
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Panny's Logistics</h1>
                         <a  href='https://panny-s-logistics.vercel.app/' target='_blank' rel='noopener noreferrer'>
-                            <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
-                                View Project
-                                <FaArrowRight className="ml-2" />
-                            </h2>
+                            <div className="group flex items-center">
+  <h2
+    className="text-team font-bold tracking-wider text-xl flex items-center 
+               transition-all duration-700 ease-in-out group-hover:tracking-[0.3em] group-hover:scale-105"
+  >
+    View Project
+    <FaArrowRight className="ml-2 transition-transform duration-700 group-hover:translate-x-2" />
+  </h2>
+</div>
                         </a>
                         <div className='relative p-2'>
                             <div className='absolute bottom-0 left-0 flex items-center'>
@@ -79,10 +89,15 @@ function Projects() {
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Adis-Glam</h1>
                         <a  href='https://adis-glam-tawny.vercel.app/' target='_blank' rel='noopener noreferrer'>
-                            <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
-                                View Project
-                                <FaArrowRight className="ml-2" />
-                            </h2>
+                            <div className="group flex items-center">
+  <h2
+    className="text-team font-bold tracking-wider text-xl flex items-center 
+               transition-all duration-700 ease-in-out group-hover:tracking-[0.3em] group-hover:scale-105"
+  >
+    View Project
+    <FaArrowRight className="ml-2 transition-transform duration-700 group-hover:translate-x-2" />
+  </h2>
+</div>
                         </a>
                         <div className='relative p-2'>
                             <div className='absolute bottom-0 left-0 flex items-center'>
@@ -102,10 +117,15 @@ function Projects() {
                         </div>
                         <h1 className="text-white font-medium text-3xl mt-3">Grand Hotel & Suites</h1>
                         <a href='https://grand-hotels-suites.vercel.app/' target='_blank' rel='noopener noreferrer'>
-                        <h2 className="text-team text-bold tracking-wider text-xl flex items-center">
-                            View Project
-                            <FaArrowRight className="ml-2" />
-                        </h2>
+                        <div className="group flex items-center">
+  <h2
+    className="text-team font-bold tracking-wider text-xl flex items-center 
+               transition-all duration-700 ease-in-out group-hover:tracking-[0.3em] group-hover:scale-105"
+  >
+    View Project
+    <FaArrowRight className="ml-2 transition-transform duration-700 group-hover:translate-x-2" />
+  </h2>
+</div>
                     </a>
                         <div className='relative p-2'>
                             <div className='absolute bottom-0 left-0 flex items-center'>
